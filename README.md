@@ -52,7 +52,7 @@ Close Animations window by clicking "X".
 
 Look for a little Animations control which appeared when the animations feature is turned on, and click the "forward play" icon. Drag the slider bar to another year or use the left/right button to choose a year.
 
-## Step 5:Add some simple customisation
+## Step 5: Add some simple customisation
 1. To change chart title:
 Double-click on "Sheet 1" tab (at the bottom left), and change it to "Top 10 Countries Historical GDP By Year".
 Double-click on the chart title, this brings up the title editor.
