@@ -101,6 +101,6 @@ https://youtu.be/4svhLm9gjzk
 ## Congratulations!
 You have now created your very first bar chart race!
 You can now try it on other country level data with date/time series: 
-COVID-19 Cases (https://towardsdatascience.com/how-to-build-a-bar-chart-race-on-covid-19-cases-in-tableau-4c45b08cdafe), Population, Life Expectancy, etc.
+COVID19 Cases (https://towardsdatascience.com/how-to-build-a-bar-chart-race-on-covid-19-cases-in-tableau-4c45b08cdafe), Population, Life Expectancy, etc.
 
 Have fun, and let your creativity flow!
