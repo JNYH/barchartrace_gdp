@@ -57,7 +57,7 @@ Look for a little Animations control which appeared when the animations feature 
 Double-click on "Sheet 1" tab (at the bottom left), and change it to "Top 10 Countries Historical GDP By Year".
 Double-click on the chart title, this brings up the title editor.
 Select all and configure the following:
-Font size 26, Bold type, Centre alignment
+Font size 26, Bold type, Centre alignment.
 
 2. To change X-axis limits:
 Double-click on the X-axis, this brings up the Axis menu.
@@ -86,7 +86,7 @@ The year label is created. Resize and locate it in the middle of the chart.
 6. To grey off the bottom 5 countries:
 Right-click on any empty chart area → Annotate → Area.
 This brings up the annotation editor. This time do nothing and click "OK".
-A grey box is formed. Right-click inside the grey box → Format
+A grey box is formed. Right-click inside the grey box → Format.
 Format Annotation → Shading → drop down menu → drag slider to 75%.
 Resize the grey box and locate it to hover over the bottom 5 countries.
 
