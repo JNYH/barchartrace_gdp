@@ -1,5 +1,6 @@
 # A Beginner's Guide to Build a Tableau Bar Chart Race
 TowardsDataScience: https://towardsdatascience.com/a-beginners-guide-to-build-a-tableau-bar-chart-race-in-6-minutes-998b0087d30e
+
 YouTube: https://www.youtube.com/watch?v=4svhLm9gjzk&feature=youtu.be
 
 A bar chart race has become very popular recently. Since the beginning of 2020, Tableau released 2020.x version with the new Animations feature for dynamic parameters. This means that the bar chart race below can now be built easily in 6 minutes.
@@ -94,7 +95,6 @@ https://youtu.be/4svhLm9gjzk
 ## Congratulations!
 You have now created your very first bar chart race!
 You can now try it on other country level data with date/time series: 
-COVID-19 Cases, Population, Life Expectancy, etc.
-https://towardsdatascience.com/how-to-build-a-bar-chart-race-on-covid-19-cases-in-tableau-4c45b08cdafe
+COVID-19 Cases (https://towardsdatascience.com/how-to-build-a-bar-chart-race-on-covid-19-cases-in-tableau-4c45b08cdafe), Population, Life Expectancy, etc.
 
 Have fun, and let your creativity flow!
