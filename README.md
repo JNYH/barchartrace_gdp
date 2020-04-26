@@ -1,8 +1,10 @@
 # A Beginner's Guide to Build a Tableau Bar Chart Race
 TowardsDataScience: 
+
 https://towardsdatascience.com/a-beginners-guide-to-build-a-tableau-bar-chart-race-in-6-minutes-998b0087d30e
 
 YouTube: 
+
 https://www.youtube.com/watch?v=4svhLm9gjzk&feature=youtu.be
 
 A bar chart race has become very popular recently. Since the beginning of 2020, Tableau released 2020.x version with the new Animations feature for dynamic parameters. This means that the bar chart race below can now be built easily in 6 minutes.
