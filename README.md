@@ -1,9 +1,9 @@
 # A Beginner's Guide to Build a Tableau Bar Chart Race
-TowardsDataScience: 
+Read tutorial on TowardsDataScience: 
 
 https://towardsdatascience.com/a-beginners-guide-to-build-a-tableau-bar-chart-race-in-6-minutes-998b0087d30e
 
-YouTube: 
+Watch tutorial on YouTube: 
 
 https://www.youtube.com/watch?v=4svhLm9gjzk&feature=youtu.be
 
