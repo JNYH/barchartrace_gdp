@@ -18,7 +18,7 @@ https://public.tableau.com/en-us/s/
 
 Next, download the latest GDP data (in *.xls format) from The World Bank.
 https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
-However, the data format is not desired. Go to my GitHub and run the Python file GDP_data_cleanup.ipynb. This will output a new data file historical_gdp.xls.
+However, the data structure is not desirable. Go to my GitHub and run the Python file GDP_data_cleanup.ipynb. This will output a new data file historical_gdp.xls.
 
 Open the Tableau Public app and connect to the newly created data file, by clicking on "Microsoft Excel" and then selecting the data file: historical_gdp.xls.
 Click on the "Sheet 1" tab at the bottom left to start the worksheet. 
