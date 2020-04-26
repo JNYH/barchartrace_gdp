@@ -31,7 +31,9 @@ This section requires a simple programming line of code.
 Click on Dimensions → drop-down menu → Create Calculated Field.
 
 Create a new field "Rank", and key in the code below.
+
 RANK_UNIQUE(Sum([Gdp]))
+
 Click on "Apply" to ensure that calculation is valid, then click "OK".
 
 "Rank" is newly created under Measures. Drag "Rank" to Rows.
