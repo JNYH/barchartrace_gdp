@@ -8,19 +8,19 @@ Watch tutorial on YouTube:
 https://www.youtube.com/watch?v=4svhLm9gjzk&feature=youtu.be
 
 ## Introduction
-A bar chart race has become very popular recently. Since the beginning of 2020, Tableau released 2020.x version with the new Animations feature for dynamic parameters. This means that the bar chart race below can now be built easily in 6 minutes.
+A bar chart race has become very popular recently. Since the beginning of 2020, Tableau released 2020.x version with the new Animations feature for dynamic parameters. This means that the bar chart race can now be built easily in 6 minutes.
 
 This tutorial is a step-by-step guide to build a bar chart race based on historical Gross Domestic Product (GDP) data. To build a bar chart race is to create many discrete pages of bar charts and then string them together, just like how a traditional cartoon animation is built.
 
 ## Step 1: Get ready the software and data
-Download and install Tableau Public (latest version 2020.1.2 onwards). It is free of charge with full functionality. The only snag is that any work done can only be published on the Tableau Public server, and not saved locally to your Desktop. This is alright if the data is not sensitive or private.
+Download and install Tableau Public (latest version 2020.1.2 onwards). It is FREE and comes with full functionality. The only snag is that any work done can only be published on the Tableau Public server, and not saved locally to your Desktop. This is alright if the data is not sensitive or private.
 https://public.tableau.com/en-us/s/
 
 Next, download the latest GDP data (in *.xls format) from The World Bank.
 https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 However, the data structure is not desirable. Go to my GitHub and run the Python file GDP_data_cleanup.ipynb. This will output a new data file historical_gdp.xls.
 
-Open the Tableau Public app and connect to the newly created data file, by clicking on "Microsoft Excel" and then selecting the data file: historical_gdp.xls.
+Open the Tableau Public app and connect to the newly created data file, by clicking on "Microsoft Excel" and then selecting the new data file: historical_gdp.xls.
 Click on the "Sheet 1" tab at the bottom left to start the worksheet. 
 
 ## Step 2: Select the Measures to race
@@ -40,8 +40,8 @@ RANK_UNIQUE(Sum([Gdp]))
 Click on "Apply" to ensure that calculation is valid, then click "OK".
 
 "Rank" is newly created under Measures. Drag "Rank" to Rows.
-Click on (Rows) Rank → drop down menu → Discrete.
-Click on (Rows) Rank → drop down menu → Compute Using → "Country".
+Click on (Rows) Rank → drop-down menu → Discrete.
+Click on (Rows) Rank → drop-down menu → Compute Using → "Country".
 
 ## Step 4: Configure Animations 
 To create a snapshot of animations frames, each year is one page:
@@ -67,14 +67,14 @@ Click on "X" to close the window.
 
 3. To display only the top 15 countries:
 Drag "Rank" to Filters → click on "OK".
-Click on (Filters) Rank → drop down menu → Compute Using → "Country" .
+Click on (Filters) Rank → drop-down menu → Compute Using → "Country".
 Replace "206" with "15", and click on "OK".
 Change the Standard view to "Entire View".
 
 4. To increase label font size and bar size:
 Click on Label → ensure "Show mark labels" is checked.
 Click on Label → ensure "Allow labels to overlap other marks" is checked.
-Click on Label → Font → drop down menu → change to font size "20".
+Click on Label → Font → drop-down menu → change to font size "20".
 To increase label font sizeClick on Size → drag the slider towards the right.
 
 5. To add the year label on chart:
@@ -88,7 +88,7 @@ The year label is created. Resize and locate it in the middle of the chart.
 Right-click on any empty chart area → Annotate → Area.
 This brings up the annotation editor. This time do nothing and click "OK".
 A grey box is formed. Right-click inside the grey box → Format.
-Format Annotation → Shading → drop down menu → drag slider to 75%.
+Format Annotation → Shading → drop-down menu → drag slider to 75%.
 Resize the grey box and locate it to hover over the bottom 5 countries.
 
 ## Publish Visualisation
