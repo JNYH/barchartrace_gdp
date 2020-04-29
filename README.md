@@ -8,7 +8,9 @@ Watch tutorial on YouTube:
 https://www.youtube.com/watch?v=4svhLm9gjzk&feature=youtu.be
 
 ## Introduction
-A bar chart race has become very popular recently. Since the beginning of 2020, Tableau released 2020.x version with the new Animations feature for dynamic parameters. This means that the bar chart race can now be built easily in 6 minutes.
+A bar chart race has become very popular recently. Since the beginning of 2020, Tableau released 2020.x version with the new Animations feature for dynamic parameters. This means that the bar chart race below can now be built easily in 6 minutes.
+
+Bar chart race in action (music added): https://youtu.be/QQ9dw7gpbIM
 
 This tutorial is a step-by-step guide to build a bar chart race based on historical Gross Domestic Product (GDP) data. To build a bar chart race is to create many discrete pages of bar charts and then string them together, just like how a traditional cartoon animation is built.
 
