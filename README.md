@@ -15,12 +15,14 @@ Bar chart race in action (music added): https://youtu.be/QQ9dw7gpbIM
 This tutorial is a step-by-step guide to build a bar chart race based on historical Gross Domestic Product (GDP) data. To build a bar chart race is to create many discrete pages of bar charts and then string them together, just like how a traditional cartoon animation is built.
 
 ## Step 1: Get ready the software and data
-Download and install Tableau Public (latest version 2020.1.2 onwards). It is FREE and comes with full functionality. The only snag is that any work done can only be published on the Tableau Public server, and not saved locally to your Desktop. This is alright if the data is not sensitive or private.
-https://public.tableau.com/en-us/s/
+Download and install Tableau Public (https://public.tableau.com/en-us/s/) latest version 2020.1.2 onwards. 
+It is FREE and comes with full functionality. The only snag is that any work done can only be published on the Tableau Public server, and not saved locally to your Desktop. This is alright if the data is not sensitive or private.
 
-Next, download the latest GDP data (in *.xls format) from The World Bank.
-https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
-However, the data structure is not desirable. Go to my GitHub and run the Python file GDP_data_cleanup.ipynb. This will output a new data file historical_gdp.xls.
+Next, download the latest GDP data (in *.xls format) from The World Bank 
+(https://data.worldbank.org/indicator/NY.GDP.MKTP.CD).
+However, the data structure is not desirable. Go to my GitHub 
+(https://github.com/JNYH/barchartrace_gdp) and run the Python file GDP_data_cleanup.ipynb. 
+This will output a new data file historical_gdp.xls.
 
 Open the Tableau Public app and connect to the newly created data file, by clicking on "Microsoft Excel" and then selecting the new data file: historical_gdp.xls.
 Click on the "Sheet 1" tab at the bottom left to start the worksheet. 
