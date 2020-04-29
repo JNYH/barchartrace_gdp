@@ -64,7 +64,7 @@ Font size 26, Bold type, Centre alignment.
 
 2. To change X-axis limits:
 Double-click on the X-axis, this brings up the Axis menu.
-Choose Range to be "Fixed", Fixed start=0, Fixed end=2.1e+13
+Choose Range to be "Fixed", Fixed start=0, Fixed end=2.1e+13.
 Click on "X" to close the window.
 
 3. To display only the top 15 countries:
